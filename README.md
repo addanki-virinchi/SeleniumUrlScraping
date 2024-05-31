@@ -43,10 +43,10 @@ To run the web scraping script:
 ## Note
 
 - Ensure that you have the Chrome WebDriver installed and configured properly if using the Chrome browser with Selenium.
-- Replace `'URL_OF_THE_WEBPAGE'` in the script with the actual URL of the webpage you want to scrape.
+- Replace  https://www.motionelements.com/search/video?s=  in the script with the actual URL of the webpage you want to scrape.
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 
-# upwork # selenium # pandas # scraper 
+#upwork #selenium #pandas #scraper 
