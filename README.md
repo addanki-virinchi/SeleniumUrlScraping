@@ -48,3 +48,5 @@ To run the web scraping script:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+#upwork #selenium #pandas #scraper 
